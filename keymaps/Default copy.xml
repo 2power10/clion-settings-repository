@@ -1,0 +1,18 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+</keymap>
