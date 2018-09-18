@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="110" type="PLAIN_TEXT" />
       <mapping pattern="testmmp" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
