@@ -4,6 +4,7 @@
       <mapping pattern="110" type="PLAIN_TEXT" />
       <mapping pattern="testmmp" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="old_format_log" type="PLAIN_TEXT" />
       <mapping pattern="gsl" type="PLAIN_TEXT" />
       <mapping pattern="json_util.h" type="PLAIN_TEXT" />
       <mapping pattern="gsl_util" type="PLAIN_TEXT" />
