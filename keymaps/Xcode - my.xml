@@ -58,4 +58,7 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
 </keymap>
