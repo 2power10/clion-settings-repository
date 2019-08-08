@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cc,*.cpp" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +15,11 @@
     <mask>*.cpp,*.cc</mask>
     <mask>*.cc</mask>
     <mask>*.xml</mask>
-    <mask>*.*</mask>
     <mask>*.cc,*.h</mask>
     <mask>*.cpp,*.h</mask>
     <mask>*.h</mask>
     <mask>*.cpp</mask>
     <mask>*.cc,*.cpp</mask>
+    <mask>*.*</mask>
   </component>
 </application>
