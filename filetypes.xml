@@ -9,6 +9,7 @@
       <mapping pattern="testmmp" type="PLAIN_TEXT" />
       <mapping pattern="110" type="PLAIN_TEXT" />
       <mapping pattern="gsl_util" type="PLAIN_TEXT" />
+      <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping pattern="test_libflac_codec.cpp" type="PLAIN_TEXT" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern="old_format_log" type="PLAIN_TEXT" />
