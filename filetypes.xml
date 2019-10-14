@@ -22,6 +22,7 @@
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="cmak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
