@@ -22,6 +22,7 @@
     <mask>*.cc,*.cpp</mask>
     <mask>*.*</mask>
     <mask>*.cc</mask>
+    <mask>*.cxx</mask>
     <mask>*.cpp</mask>
   </component>
 </application>
