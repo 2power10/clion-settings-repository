@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern="json_util.h" type="PLAIN_TEXT" />
       <mapping pattern="testUnnormalCases" type="PLAIN_TEXT" />
@@ -16,16 +14,16 @@
       <mapping pattern="old_format_log" type="PLAIN_TEXT" />
       <mapping pattern="110" type="PLAIN_TEXT" />
       <mapping ext="gcda" type="PLAIN_TEXT" />
-      <mapping ext="pom" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="pom" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="toolchain" type="PLAIN_TEXT" />
       <mapping ext="cmak" type="PLAIN_TEXT" />
     </extensionMap>
