@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28c4e10a-f63a-4c19-b881-101a8ee840de" name="Remote Host (28c4e10a-f63a-4c19-b881-101a8ee840de)" url="http:///">
+        <fileTransfer host="ssh.phonealpha.com" port="10086" accessType="SFTP">
+          <option name="port" value="10086" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
