@@ -2,7 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="28c4e10a-f63a-4c19-b881-101a8ee840de" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" customCCompilerPath="/opt/rh/devtoolset-6/root/usr/bin/cc" customCXXCompilerPath="/opt/rh/devtoolset-6/root/usr/bin/c++" hostId="28c4e10a-f63a-4c19-b881-101a8ee840de" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
     </toolchains>
   </component>
 </application>
