@@ -6,6 +6,11 @@
           <option name="port" value="10086" />
         </fileTransfer>
       </webServer>
+      <webServer id="2dd6491b-ce7f-4520-a322-8ef0377ad864" name="Remote Host (2dd6491b-ce7f-4520-a322-8ef0377ad864)" url="http:///">
+        <fileTransfer host="localhost" port="10086" accessType="SFTP">
+          <option name="port" value="10086" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
